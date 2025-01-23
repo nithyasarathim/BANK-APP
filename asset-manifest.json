@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BANK-APP/static/css/main.5a37938a.css",
+    "main.js": "/BANK-APP/static/js/main.d68677e1.js",
+    "static/js/488.2ff3aba3.chunk.js": "/BANK-APP/static/js/488.2ff3aba3.chunk.js",
+    "index.html": "/BANK-APP/index.html",
+    "main.5a37938a.css.map": "/BANK-APP/static/css/main.5a37938a.css.map",
+    "main.d68677e1.js.map": "/BANK-APP/static/js/main.d68677e1.js.map",
+    "488.2ff3aba3.chunk.js.map": "/BANK-APP/static/js/488.2ff3aba3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a37938a.css",
+    "static/js/main.d68677e1.js"
+  ]
+}
